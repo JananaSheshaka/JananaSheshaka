@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm JananaSheshaka</h1>
 <h3 align="center">Passionate About Code, Committed to Quality</h3>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jananasheshaka&label=Profile%20views&color=0e75b6&style=flat" alt="jananasheshaka" /> </p>
-
 <p align="center">📫 How to reach me **jananasheshaka@gmail.com**</p>
+<p align="center"><img align="center" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></p>
 <hr>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
